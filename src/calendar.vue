@@ -336,8 +336,7 @@ export default {
       get() {
         let weekDayNames = JSON.parse(JSON.stringify(I18N[this.i18n]));
         if (this.startMonday) {
-          let sunday = weekDayNames.shift()
-          weekDayNames.push(sunday)
+          weekDayNames = [].concat(weekDayNames.slice(1,7), weekDayNames[0])
         }
         return weekDayNames
       }
