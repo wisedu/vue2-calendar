@@ -214,7 +214,7 @@
 <script>
 const I18N = {
   'zh-cn': ['日', '一', '二', '三', '四', '五', '六'],
-  'en': ['SUN', 'MON', 'TUN', 'WED', 'THU', 'FRI', 'SAT']
+  'en': ['SUN', 'MON', 'TUE', 'WED', 'THU', 'FRI', 'SAT']
 }
 import propsync from './mixins/propsync';//引入mixin文件
 export default {
