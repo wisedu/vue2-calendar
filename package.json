@@ -1,7 +1,7 @@
 {
   "name": "wisedu-vue2-calendar",
   "description": "A Vue.js project",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "author": "yuqi <yuqi@wisedu.com>",
   "main": "lib/index.js",
   "homepage": "https://github.com/wisedu/",

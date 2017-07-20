@@ -61,8 +61,9 @@ module.exports = {
         contentBase: path.resolve(__dirname, '../demo'),
         historyApiFallback: true,
         noInfo: true,
+        disableHostCheck: true,
         host: '0.0.0.0',
-        port: 8080
+        port: 8081
     },
     performance: {
         hints: false
