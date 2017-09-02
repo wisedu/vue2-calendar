@@ -17,7 +17,7 @@ website: [necfol/vue2-calendar](https://necfol.github.io/vue2-calendar)
 ## install & use
 
 ```
-npm install vue-calendar-mobile
+npm install wisedu-vue2-calendar
 ```
 
 use in a vue component
