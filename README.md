@@ -2,17 +2,9 @@ vue2-calendar
 ===
 A calendar component for vue.js **compitable with vue 2.x**
 
-> Based on [GilbertSun/vue-calendar]
->
-> if you want to use calendar component for vue.js(1.x), please visit
->
->
-> [GilbertSun/vue-calendar](http://gilbertsun.github.io/vue-calendar)
->
-
 ## examples
 
-website: [necfol/vue2-calendar](https://necfol.github.io/vue2-calendar)
+website: [vue2-calendar](https://necfol.github.io/vue2-calendar)
 
 ## install & use
 
